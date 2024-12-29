@@ -1,20 +1,24 @@
-# Merhaba, Ben Osman Yelek 👋 / Hello, I'm Osman Yelek 👋
+# Hello, I'm Osman Yelek 👋
 
-## Hakkımda / About Me
+## About Me
 
-- 🌱 Şu anda **Java ve Spring Boot** geliştiriyorum. / Currently development **Java and Spring Boot**.
+- 🌱 I develop robust and scalable backend systems using **Java and Spring Boot**.  
+- 🚀 I specialize in **blockchain development**, designing and implementing smart contracts using **Solidity**.  
+- 🌐 Simultaneously, I build modern web interfaces with the **React** library and develop smart contracts for blockchain projects using **Remix IDE**.  
 
-## Diller ve Araçlar / Languages and Tools
+## Languages and Tools
 
-- **Backend:** Java, Spring Boot
-- **Frontend:** HTML, CSS
-- **Veritabanları:** PostgreSQL, MySQL, MsSQL / **Databases:** PostgreSQL, MySQL, MsSQL
-- **Araçlar:** Git / **Tools:** Git
-- **IDE:** IntelliJ IDEA, Visual Studio Code, Apache NetBeans, Eclipse IDE
+- **Backend:** Java, Spring Boot, Solidity  
+- **Blockchain:** Ethereum, Scroll Network, Decentralized Applications (dApps)  
+- **Frontend:** HTML, CSS, React  
+- **Databases:** PostgreSQL, MySQL, MsSQL  
+- **Tools:** Git, Remix IDE  
+- **IDE:** IntelliJ IDEA, Visual Studio Code, Apache NetBeans, Eclipse IDE  
 
-## İletişim / Contact
+## Contact
 
-- **Email:** osmanyelek34@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/osmanyelek/
+- **Email:** osmanyelek34@gmail.com  
+- **LinkedIn:** [Osman Yelek](https://www.linkedin.com/in/osmanyelek/)  
+- **X (Twitter):** [@osmndev](https://x.com/osmndev)  
 
-Teşekkürler! 👋 / Thank you! 👋
+Thank you! 👋  
